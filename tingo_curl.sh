@@ -1,0 +1,2 @@
+curl https://api.tiingo.com/tiingo/daily/googl/prices?startDate=2019-01-02&&endDate=2022-02-01&token=eb8c89943818d5d4e367aa4cc26c0f1947ae68bd
+curl https://api.tiingo.com/tiingo/daily/aapl/prices?startDate=2019-01-02&&endDate=2022-02-01&token=eb8c89943818d5d4e367aa4cc26c0f1947ae68bd
